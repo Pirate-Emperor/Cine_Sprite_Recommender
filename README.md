@@ -44,7 +44,7 @@ The script will train the ML model using the IMDb dataset and generate movie rec
 
 ## Data Source
 
-The project uses a dataset from IMDb, which includes movie information, genres, and user ratings. The dataset can be obtained from the IMDb website or other data-sharing platforms.
+The project uses a dataset from IMDb, which includes movie information, genres, and user ratings. The dataset has been obtained from the IMDb website.
 
 ## Development
 
